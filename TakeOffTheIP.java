@@ -15,7 +15,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author WRiker
+ * @author AlbertRein
  */
 public class TakeOffTheIP extends javax.swing.JFrame {
 
